@@ -1,8 +1,13 @@
 # rust-openssl
 
-[![crates.io](https://img.shields.io/crates/v/openssl.svg)](https://crates.io/crates/openssl)
+![Status](https://img.shields.io/badge/Deprecated-brown)
 
-OpenSSL bindings for the Rust programming language.
+> [!CAUTION]
+> This repo is no longer maintained.
+
+The documentation below is provided for historical reference only.
+
+## OpenSSL bindings for the Rust programming language.
 
 [Documentation](https://docs.rs/openssl).
 
